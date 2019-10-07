@@ -5,3 +5,5 @@ git log
 git log --pretty oneline
 git reset --hard HEAD^
 git reflog
+git diff Head
+git what
