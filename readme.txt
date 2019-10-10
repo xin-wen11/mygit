@@ -10,4 +10,4 @@ git status
 no add no commit
 git checkout -- filename
 git reset HEAD filename
-oooo
+here is somthing new
