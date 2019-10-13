@@ -11,3 +11,4 @@ no add no commit
 git checkout -- filename
 git reset HEAD filename
 here is somthing new
+stashsssss
